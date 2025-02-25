@@ -24,10 +24,14 @@ section {
     color: #0f0f0f;
     font-weight: 600;
 }
+.nav-img{
+width: 20%;
+
+}
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('coldplay\ 4.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
