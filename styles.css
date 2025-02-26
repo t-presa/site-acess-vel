@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #0c0c0b;
+    background-color: #fffffb;
 }
 
 
@@ -25,7 +25,8 @@ section {
     font-weight: 600;
 }
 .nav-img{
-width: 20%;
+width: 40%;
+
 
 }
 
@@ -107,6 +108,7 @@ h2 {
 
 #galeria {
     background-color: #1f1e1e;
+    
 
 }
 
@@ -116,31 +118,31 @@ h2 {
 }
 
 #contato {
-    background-image: url('coldplay\ 2.jpg');
+    background-image: url('coldplay\ 7.webp');
     background-size: cover;
-    padding: 1rem 0;
+    padding: 6rem 0;
     /* Espaçamento interno para a seção de contato */
 
 }
 
 .formulario {
-    background-color: #0a0a0a;
+    background-color: #090909;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(250, 246, 246, 0.1);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #1b1b1b;
+    background-color: #0a0a0a;
     border: none;
     font-weight: bold;
 }
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #141414;
+    background-color: #faf9f8;
 }
